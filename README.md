@@ -1,4 +1,10 @@
+### COMANDO PER VOCE ITALIANA AZURE
+
+python3 main.py path/libro.epub ./ --voice_name it-IT-CalimeroNeural --language it-IT
+
 # EPUB to Audiobook Converter [![Discord](https://img.shields.io/discord/1177631634724491385?label=Discord&logo=discord&logoColor=white)](https://discord.com/invite/pgp2G8zhS7)
+
+
 
 *Join our [Discord](https://discord.com/invite/pgp2G8zhS7) server for any questions or discussions.*
 
